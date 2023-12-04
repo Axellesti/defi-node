@@ -1,0 +1,6 @@
+{
+  "description": "",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
